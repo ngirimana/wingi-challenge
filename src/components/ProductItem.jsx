@@ -10,11 +10,11 @@ function Product({ name, quantity, image, category, price, description }) {
           height: "200px",
         }}
         src={image}
-        alt={description}
+        alt={name}
       />
       <div className="text-2xl font-bold text-gray-900">{name}</div>
       <div className="text-base font-medium text-gray-900">
-        {description.slice(0, 50)}...
+        {description.slice(0, 45)}...
       </div>
       <div class="container flex items-center justify-between">
         <div class="text-base font-medium text-gray-500 mb-2">
