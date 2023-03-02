@@ -57,8 +57,8 @@ Your app is ready to be deployed!
 - Netlify
 ## Deployment link
 
-- [Winging-challenge](https://wingi-challenge.netlify.app/)  
+- [Wingi-challenge](https://wingi-challenge.netlify.app/)  
 
 ## Demo link
-- [Winging-challenge Demo ](https://www.veed.io/view/e087c557-7e4b-4f21-bf3c-55209c9914e0?panel=share)
+- [Wingi-challenge Demo ](https://www.veed.io/view/e087c557-7e4b-4f21-bf3c-55209c9914e0?panel=share)
 
